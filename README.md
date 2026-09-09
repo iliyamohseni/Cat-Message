@@ -19,4 +19,7 @@ Cat-Message/
 ├── README.md
 │
 └── cat/
-    └── cat.jpg<img width="876" height="177" alt="Screenshot 2026-09-09 125417" src="https://github.com/user-attachments/assets/63f57bce-12ce-4e49-87be-e7da33765bc4" />
+    └── cat.jpg
+
+
+<img width="876" height="177" alt="Screenshot 2026-09-09 125417" src="https://github.com/user-attachments/assets/85223593-fba9-48af-b9a1-a1c31905543d" />
